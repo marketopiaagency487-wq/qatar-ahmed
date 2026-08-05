@@ -9,7 +9,7 @@ const PHONE_INTL = "+201011240910";
 const WA_NUMBER = "201011240910";
 const WA_MSG = "مرحباً، أرغب في التسجيل المبكر لمشروع علم الروم - الديار القطرية";
 const WA_URL = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(WA_MSG)}`;
-const WEB3_KEY = "1fe5acc9-1e6d-4481-9677-0b9ba8bf8e6e";
+const WEB3_KEY = "2d52cc05-d3fb-4be4-a174-679ad841c562";
 
 /* ─── GOOGLE ADS TRACKING ─── */
 const GADS_ID = "AW-18355644870";
