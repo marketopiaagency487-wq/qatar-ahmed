@@ -12,10 +12,10 @@ const WA_URL = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(WA_MSG)}`;
 const WEB3_KEY = "2d52cc05-d3fb-4be4-a174-679ad841c562";
 
 /* ─── GOOGLE ADS TRACKING ─── */
-const GADS_ID = "AW-18355644870";
-const CONV_FORM = `${GADS_ID}/0EADCMjN2twcEMbT07BE`;
-const CONV_WHATSAPP = `${GADS_ID}/-D_aCMvN2twcEMbT07BE`;
-const CONV_CALL = `${GADS_ID}/M3vZCM7N2twcEMbT07BE`;
+const GADS_ID = "AW-18372487007";
+const CONV_FORM = `${GADS_ID}/K_A_CIr529wcEN_O17hE`;
+const CONV_WHATSAPP = `${GADS_ID}/ir2LCI3529wcEN_O17hE`;
+const CONV_CALL = `${GADS_ID}/1xGBCIj629wcEN_O17hE`;
 
 declare global {
   interface Window {
