@@ -5,7 +5,7 @@ import "./globals.css";
 const SITE_URL = "https://alamelroum-qataridiar.org";
 
 /* ─── Google Ads ─── */
-export const GADS_ID = "AW-18355644870";
+export const GADS_ID = "AW-18372487007";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
